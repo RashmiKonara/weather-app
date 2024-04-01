@@ -1,0 +1,26 @@
+body {
+    background-image: url('360_F_551952602_vp8d4v2nDYo8UExEpxFOtMMv8uOzPaq9.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#weather-details {
+    margin-top: 20px;
+}
+
+#weather-details > div {
+    margin-bottom: 10px;
+}
